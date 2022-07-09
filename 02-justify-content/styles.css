@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: roboto;
+}
+.wrapper{
+  padding:3rem;
+  text-align:center;
+  color:#333;
+  background-color:#DDD6FE;
+}
+.menu{
+  background-color:white;
+  padding:0.5rem;
+  border-radius:2rem;
+  display:flex;
+  justify-content: space-between;
+}
+.menu a{
+  font-size:0.9rem;
+  background-color: #EFF6FF;
+  padding: 0.6rem 1.5rem;
+  border-radius: 2rem;
+  color: black;
+  text-decoration: none;
+}
+.menu a.active {
+  background-color: #3B82F6;
+  color: white;
+}

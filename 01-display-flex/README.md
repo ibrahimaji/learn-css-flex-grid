@@ -1,0 +1,1 @@
+Flexbox is a method that helps us arrange elements in one direction (horizontally or vertically) and control their dimensions, alignments, order of appearance. For this we need at least two elements, a parent element called flex container and at least one child element called flex item. Children of flex items are not affected.
