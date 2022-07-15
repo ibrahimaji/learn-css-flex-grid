@@ -1,0 +1,30 @@
+body{
+	background-color:#F1F5F9;
+	color: #555;
+}
+.text-inside p{
+	line-height:: 1.4;
+}
+.text-post{
+	background-color:white;
+	max-width:16rem;
+	border-radius:10px;
+	padding:2.5rem;
+	margin:auto;
+}
+.header{
+	color:#2563EB;
+	margin:0;
+}
+.prev-next{
+	display:flex;
+	justify-content:space-between;
+}
+.prev-next p{
+	color:#222;
+	text-decoration:none;
+	padding:8px 15px;
+	background-color:#BFDBFE;
+	border-radius:5px;
+	font-size:0.9rem;
+}
